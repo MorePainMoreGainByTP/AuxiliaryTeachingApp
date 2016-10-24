@@ -1,0 +1,3 @@
+# AuxiliaryTeachingApp
+辅助教学在线系统app，第一次将项目提交到github
+第一次编写readme
